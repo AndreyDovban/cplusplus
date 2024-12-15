@@ -18,11 +18,10 @@ int main()
     const int COUNT_DAYS_IN_WEEK = 7;
 
     cout
-        << a
-        << f
-        << b
-        << COUNT_DAYS_IN_WEEK
-        << endl;
+        << a << endl
+        << f << endl
+        << b << endl
+        << COUNT_DAYS_IN_WEEK << endl;
 
     return 0;
 }
